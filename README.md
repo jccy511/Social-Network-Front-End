@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * __Google Map API__
 
 ## Demo 
-![](demo.gif)
+![image](demo1.gif)
 
 ## Available Scripts
 
